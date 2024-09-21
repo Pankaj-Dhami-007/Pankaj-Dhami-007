@@ -27,7 +27,7 @@ I'm a passionate Java Developer.
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://https://www.linkedin.com/in/pankajdhami811/" alt="LinkedIn"></a>
   <a href="https://github.com/YourUsername"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Portfolio-blue?style=flat-square" alt="Portfolio"></a>
 </p>
