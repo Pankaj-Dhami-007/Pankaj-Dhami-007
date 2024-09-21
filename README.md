@@ -10,7 +10,7 @@ I'm a passionate Java Developer.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 💬 Ask me about Java, SQL, or web development.
 - ✍️ Love writing clean, efficient, and maintainable code.
-- 📫 How to reach me: [pankajdhami811@gmail.com](mailto:your-email@example.com)
+- 📫 How to reach me: [pankajdhami811@gmail.com](pankajdhami811@gmail.com)
 
 ---
 
