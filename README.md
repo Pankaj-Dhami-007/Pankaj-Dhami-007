@@ -1,8 +1,5 @@
 # Hey, I'm [Pankaj Singh Dhami] 👋
 
-I'm a passionate Java Developer.
-
----
 
 ### 🚀 About Me
 
@@ -27,8 +24,6 @@ I'm a passionate Java Developer.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pankajdhami811/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+
+  
 ---
-
-### 👨‍💻 Fun Fact
-
-I enjoy solving **algorithmic puzzles** and learning new technologies in my spare time.
