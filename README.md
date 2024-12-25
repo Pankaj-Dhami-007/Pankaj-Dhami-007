@@ -13,7 +13,7 @@
 ### 🛠 Technologies & Tools
 
 - **Languages**: Java, SQL, JavaScript, HTML/CSS
-- **Frameworks**: Working
+- **Frameworks**: BootStrap, Spring, SpringBoot
 - **Databases** :MySQL,  SQL Server 
 - **Version Control**: Git, GitHub
 - **IDEs**: Visual Studio Code,  IntelliJ IDEA 
