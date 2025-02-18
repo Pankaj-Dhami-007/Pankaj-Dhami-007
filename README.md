@@ -1,7 +1,7 @@
 # Hey, I'm [Pankaj Singh Dhami] 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Java+Developer+%7C+Web+Developer;Full-Stack+Developer+%7C+Problem+Solver" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Java+Developer+%7C+Developer;Full+Stack+Developer+%7C+Problem+Solver" alt="Typing SVG">
 </p>
 
 ---
