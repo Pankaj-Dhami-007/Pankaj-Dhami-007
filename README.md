@@ -38,7 +38,7 @@
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajdhami811&layout=compact&theme=radical" alt="Most Used Languages" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj-Dhami-007&layout=compact&theme=radical" alt="Most Used Languages" width="400px"/>
 </p>
 
 ---
@@ -48,23 +48,15 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/pankajdhami811/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:pankajdhami811@example.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://github.com/pankajdhami811"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/Pankaj-Dhami-007"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
 
 ### 💼 Featured Projects
 
-- [Project 1: Banking App](https://github.com/pankajdhami811/banking-app)  
+- [Project 1: Banking App](https://github.com/Pankaj-Dhami-007/banking-app)  
   A banking app built with **Spring Boot**, **JSP**, and **MySQL** following **DAO & MVC patterns**.
 
-- [Project 2: Real-time Chat App](https://github.com/pankajdhami811/chat-app)  
-  Real-time chat application using **Java Swing** and **socket programming**.
-
----
-
-### 📈 Contributions & Activity
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=pankajdhami811&theme=radical&hide_border=true" alt="Contribution Graph" width="700px"/>
-</p>
+- [Project 2: Real-time Chat App](https://github.com/Pankaj-Dhami-007/chat-app)  
+  Real-time chat application using **Java Swing** and **socket programming**
