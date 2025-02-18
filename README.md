@@ -1,7 +1,7 @@
 # Hey, I'm [Pankaj Singh Dhami] 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Java+Developer+%7C+Web+Developer;Full-Stack+Developer+%7C+Problem+Solver" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Java+Developer+%7C+Web+Developer; Full-Stack+Developer+%7C+Problem+Solver" alt="Typing SVG">
 </p>
 
 ---
@@ -30,7 +30,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pankaj-Dhami-007&show_icons=true&theme=radical&count_private=true" alt="Pankaj's GitHub Stats" width="400px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pankaj-Dhami-007&theme=radical" alt="GitHub Streak" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Dhami-007&theme=radical" alt="GitHub Streak" width="400px"/>
 </p>
 
 ---
@@ -46,17 +46,21 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pankajdhami811/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:pankajdhami811@example.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://github.com/Pankaj-Dhami-007"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/pankajdhami811/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pankajdhami811@example.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Pankaj-Dhami-007" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
-### 💼 Featured Projects
+### 📈 Contributions & Activity
 
-- [Project 1: Banking App](https://github.com/Pankaj-Dhami-007/banking-app)  
-  A banking app built with **Spring Boot**, **JSP**, and **MySQL** following **DAO & MVC patterns**.
-
-- [Project 2: Real-time Chat App](https://github.com/Pankaj-Dhami-007/chat-app)  
-  Real-time chat application using **Java Swing** and **socket programming**
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Pankaj-Dhami-007&theme=radical" alt="GitHub Activity Graph" width="800px" />
+</p>
