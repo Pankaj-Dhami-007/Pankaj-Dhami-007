@@ -1,7 +1,7 @@
 # Hey, I'm [Pankaj Singh Dhami] 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Java+Developer+%7C+Web+Developer; Full-Stack+Developer+%7C+Problem+Solver" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Java+Developer+%7C+Web+Developer;Full-Stack+Developer+%7C+Problem+Solver" alt="Typing SVG">
 </p>
 
 ---
@@ -33,10 +33,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Dhami-007&theme=radical" alt="GitHub Streak" width="400px"/>
 </p>
 
----
-
-### 📊 Most Used Languages
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj-Dhami-007&layout=compact&theme=radical" alt="Most Used Languages" width="400px"/>
 </p>
@@ -47,20 +43,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pankajdhami811/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:pankajdhami811@example.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/Pankaj-Dhami-007" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
----
-
-### 📈 Contributions & Activity
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Pankaj-Dhami-007&theme=radical" alt="GitHub Activity Graph" width="800px" />
 </p>
