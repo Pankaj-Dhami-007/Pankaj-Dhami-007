@@ -52,3 +52,18 @@
     <img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+.....
+
+---
+
+### 💻 Code Snippet
+
+```java
+while (noSuccess)
+{
+    tryAgain();
+    if (Dead)
+        break;
+}
+
