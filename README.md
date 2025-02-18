@@ -57,13 +57,23 @@
 
 ---
 
-### 💻 Code Snippet
+### 💡 Life 
 
 ```java
-while (noSuccess)
+while (lifeThrowsChallenges())
 {
-    tryAgain();
-    if (Dead)
-        break;
+    tryToAdapt();
+    if (feelOverwhelmed)
+    {
+        takeABreak();
+    }
+    else if (findOpportunity())
+    {
+        embraceIt();
+    }
+    else
+    {
+        keepMovingForward();
+    }
 }
 
