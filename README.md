@@ -29,8 +29,8 @@
 ### ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankajdhami811&show_icons=true&theme=radical&count_private=true" alt="Pankaj's GitHub Stats" width="400px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pankajdhami811&theme=radical" alt="GitHub Streak" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pankaj-Dhami-007&show_icons=true&theme=radical&count_private=true" alt="Pankaj's GitHub Stats" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pankaj-Dhami-007&theme=radical" alt="GitHub Streak" width="400px"/>
 </p>
 
 ---
