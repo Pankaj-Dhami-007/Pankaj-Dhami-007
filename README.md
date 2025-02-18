@@ -51,7 +51,11 @@
   <a href="https://github.com/Pankaj-Dhami-007" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://leetcode.com/u/Pankajsinghdhami/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" alt="LeetCode" />
+  </a>
 </p>
+
 
 .....
 
