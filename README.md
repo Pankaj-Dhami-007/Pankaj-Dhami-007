@@ -22,7 +22,7 @@
 - **Frameworks**: `Bootstrap`, `Spring`, `Spring Boot`
 - **Databases**: `MySQL`, `SQL Server`
 - **Version Control**: `Git`, `GitHub`
-- **IDEs**: `Visual Studio Code`, `IntelliJ IDEA`
+- **IDEs**: `Visual Studio Code`, `IntelliJ IDEA`,`Eclipse`, `STS`
 
 ---
 
