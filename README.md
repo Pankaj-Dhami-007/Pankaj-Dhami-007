@@ -20,7 +20,7 @@
 
 - **Languages**: `Java`, `SQL`, `JavaScript`, `HTML/CSS`
 - **Frameworks**: `Bootstrap`, `Spring`, `Spring Boot`
-- **Databases**: `MySQL`, `SQL Server`
+- **Databases**: `MySQL`
 - **Version Control**: `Git`, `GitHub`
 - **IDEs**: `Visual Studio Code`, `IntelliJ IDEA`,`Eclipse`, `STS`
 
