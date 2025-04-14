@@ -61,7 +61,7 @@
 
 ---
 
-### 💡 Life 
+### 💡 @Life 
 
 ```java
 while (lifeThrowsChallenges())
